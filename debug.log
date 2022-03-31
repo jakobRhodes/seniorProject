@@ -1,0 +1,926 @@
+2022-03-19 09:48:32,086 [INFO] 6
+2022-03-19 09:49:19,502 [INFO] 7
+2022-03-19 09:50:49,962 [INFO] 6
+2022-03-19 09:50:50,875 [INFO] 1
+2022-03-19 09:52:39,766 [INFO] The question number is7
+2022-03-19 09:52:40,831 [INFO] The decision number is1
+2022-03-19 09:53:39,940 [INFO] The question number is 5
+2022-03-19 09:53:40,578 [INFO] {}
+2022-03-19 09:53:40,579 [INFO] The decision number is 2
+2022-03-19 10:01:58,495 [INFO] The question number is 7
+2022-03-19 10:02:01,124 [INFO] {}
+2022-03-19 10:02:01,137 [INFO] {}
+2022-03-19 10:02:01,137 [INFO] The decision number is 1
+2022-03-19 10:03:16,756 [INFO] The question number is 2
+2022-03-19 10:03:17,316 [INFO] {}
+2022-03-19 10:03:17,316 [INFO] The decision number is 1
+2022-03-19 10:12:15,756 [INFO] The question number is 6
+2022-03-19 10:12:26,827 [INFO] The question number is 6
+2022-03-19 10:12:28,652 [INFO] {}
+2022-03-19 10:12:36,883 [INFO] The question number is 9
+2022-03-19 10:12:38,200 [INFO] {}
+2022-03-19 10:12:57,912 [INFO] The question number is 1
+2022-03-19 10:12:59,195 [INFO] {}
+2022-03-19 10:16:05,047 [INFO] The question number is 8
+2022-03-19 10:16:05,811 [INFO] Choice 1
+2022-03-19 10:16:18,130 [INFO] The question number is 9
+2022-03-19 10:16:18,919 [INFO] Choice 2
+2022-03-19 10:18:06,024 [INFO] The question number is 5
+2022-03-19 10:19:05,940 [INFO] The question number is 4
+2022-03-19 10:20:39,811 [INFO] The question number is 6
+2022-03-19 10:20:41,129 [INFO] The decision number is 1
+2022-03-19 10:20:41,129 [INFO] The question number is 4
+2022-03-19 10:20:42,521 [INFO] The decision number is 0
+2022-03-19 10:20:42,521 [INFO] The question number is 3
+2022-03-19 10:20:43,143 [INFO] The decision number is 2
+2022-03-19 10:20:43,144 [INFO] The question number is 1
+2022-03-19 10:20:43,717 [INFO] The decision number is 1
+2022-03-19 10:20:43,718 [INFO] The question number is 1
+2022-03-19 10:20:44,615 [INFO] The decision number is 2
+2022-03-19 10:20:44,615 [INFO] The question number is 7
+2022-03-19 10:20:44,954 [INFO] The decision number is 1
+2022-03-19 10:20:44,955 [INFO] The question number is 0
+2022-03-19 10:20:45,513 [INFO] The decision number is 0
+2022-03-19 10:20:45,513 [INFO] The question number is 8
+2022-03-19 10:20:45,897 [INFO] The decision number is 1
+2022-03-19 10:20:45,898 [INFO] The question number is 4
+2022-03-19 10:20:46,221 [INFO] The decision number is 2
+2022-03-19 10:20:46,222 [INFO] The question number is 9
+2022-03-19 10:20:46,580 [INFO] The decision number is 1
+2022-03-19 10:22:37,529 [INFO] The question number is 7
+2022-03-19 10:22:49,841 [INFO] The question number is 9
+2022-03-19 10:23:38,915 [INFO] The question number is 6
+2022-03-19 10:24:19,618 [INFO] The question number is 8
+2022-03-19 10:24:20,606 [INFO] The decision number is 2
+2022-03-19 10:24:43,786 [INFO] The question number is 7
+2022-03-19 10:24:44,957 [INFO] The decision number is 3
+2022-03-19 10:24:44,958 [INFO] The question number is 4
+2022-03-19 10:24:45,590 [INFO] The decision number is 2
+2022-03-19 10:24:45,591 [INFO] The question number is 8
+2022-03-19 10:24:46,088 [INFO] The decision number is 1
+2022-03-19 10:24:46,088 [INFO] The question number is 9
+2022-03-19 10:24:46,964 [INFO] The decision number is 2
+2022-03-19 10:24:46,964 [INFO] The question number is 7
+2022-03-19 10:24:47,571 [INFO] The decision number is 3
+2022-03-19 10:24:47,572 [INFO] The question number is 9
+2022-03-19 10:24:48,093 [INFO] The decision number is 2
+2022-03-19 10:24:48,093 [INFO] The question number is 6
+2022-03-19 10:24:48,824 [INFO] The decision number is 1
+2022-03-19 10:24:48,824 [INFO] The question number is 3
+2022-03-19 10:24:49,491 [INFO] The decision number is 2
+2022-03-19 10:24:49,491 [INFO] The question number is 0
+2022-03-19 10:24:49,884 [INFO] The decision number is 1
+2022-03-19 10:24:49,885 [INFO] The question number is 7
+2022-03-19 10:24:50,390 [INFO] The decision number is 2
+2022-03-19 10:58:12,647 [INFO] The question number is 7
+2022-03-19 11:10:07,183 [INFO] The question number is 6
+2022-03-19 11:12:36,121 [INFO] The question number is 0
+2022-03-19 11:49:56,343 [INFO] The decision number is 1
+2022-03-19 11:49:57,143 [INFO] The decision number is 2
+2022-03-19 11:49:57,727 [INFO] The decision number is 3
+2022-03-19 11:49:58,715 [INFO] The decision number is 2
+2022-03-19 11:49:59,193 [INFO] The decision number is 1
+2022-03-19 11:49:59,432 [INFO] The decision number is 1
+2022-03-19 11:49:59,609 [INFO] The decision number is 1
+2022-03-19 11:49:59,769 [INFO] The decision number is 1
+2022-03-19 11:49:59,947 [INFO] The decision number is 1
+2022-03-19 11:50:00,199 [INFO] The decision number is 1
+2022-03-19 12:02:23,794 [INFO] The decision number is 3
+2022-03-19 12:02:24,306 [INFO] The decision number is 3
+2022-03-19 12:02:24,753 [INFO] The decision number is 3
+2022-03-19 12:02:25,193 [INFO] The decision number is 3
+2022-03-19 12:02:25,971 [INFO] The decision number is 2
+2022-03-19 12:02:26,470 [INFO] The decision number is 1
+2022-03-19 12:02:27,158 [INFO] The decision number is 2
+2022-03-19 12:02:27,688 [INFO] The decision number is 1
+2022-03-19 12:02:28,797 [INFO] The decision number is 2
+2022-03-19 12:02:29,443 [INFO] The decision number is 1
+2022-03-19 12:04:12,772 [INFO] The question number is 3
+2022-03-19 12:04:15,760 [INFO] The decision number is 2
+2022-03-19 12:04:15,760 [INFO] The question number is 3
+2022-03-19 12:04:16,365 [INFO] The decision number is 1
+2022-03-19 12:04:16,366 [INFO] The question number is 8
+2022-03-19 12:04:17,305 [INFO] The decision number is 2
+2022-03-19 12:04:17,306 [INFO] The question number is 9
+2022-03-19 12:04:18,388 [INFO] The decision number is 3
+2022-03-19 12:04:18,389 [INFO] The question number is 8
+2022-03-19 12:04:18,967 [INFO] The decision number is 2
+2022-03-19 12:04:18,968 [INFO] The question number is 3
+2022-03-19 12:04:19,656 [INFO] The decision number is 2
+2022-03-19 12:04:19,656 [INFO] The question number is 7
+2022-03-19 12:04:20,488 [INFO] The decision number is 2
+2022-03-19 12:04:20,488 [INFO] The question number is 5
+2022-03-19 12:04:21,146 [INFO] The decision number is 3
+2022-03-19 12:04:21,146 [INFO] The question number is 8
+2022-03-19 12:04:21,734 [INFO] The decision number is 2
+2022-03-19 12:04:21,735 [INFO] The question number is 4
+2022-03-19 12:04:22,349 [INFO] The decision number is 1
+2022-03-19 12:05:15,548 [INFO] The question number is 1
+2022-03-19 12:05:16,414 [INFO] The decision number is 2
+2022-03-19 12:05:16,414 [INFO] The question number is 7
+2022-03-19 12:05:16,918 [INFO] The decision number is 3
+2022-03-19 12:05:16,918 [INFO] The question number is 6
+2022-03-19 12:05:17,445 [INFO] The decision number is 1
+2022-03-19 12:05:17,445 [INFO] The question number is 4
+2022-03-19 12:05:17,823 [INFO] The decision number is 2
+2022-03-19 12:05:17,823 [INFO] The question number is 1
+2022-03-19 12:05:18,222 [INFO] The decision number is 1
+2022-03-19 12:05:18,222 [INFO] The question number is 7
+2022-03-19 12:05:18,700 [INFO] The decision number is 3
+2022-03-19 12:05:18,700 [INFO] The question number is 6
+2022-03-19 12:05:19,031 [INFO] The decision number is 2
+2022-03-19 12:05:19,031 [INFO] The question number is 2
+2022-03-19 12:05:19,824 [INFO] The decision number is 1
+2022-03-19 12:05:19,825 [INFO] The question number is 6
+2022-03-19 12:05:20,164 [INFO] The decision number is 2
+2022-03-19 12:05:20,164 [INFO] The question number is 0
+2022-03-19 12:05:20,517 [INFO] The decision number is 3
+2022-03-19 14:00:16,572 [INFO] The question number is 6
+2022-03-19 14:00:18,598 [INFO] The decision number is 1
+2022-03-19 14:00:18,599 [INFO] The question number is 8
+2022-03-19 14:00:19,887 [INFO] The decision number is 2
+2022-03-19 14:00:19,887 [INFO] The question number is 4
+2022-03-19 14:00:20,827 [INFO] The decision number is 3
+2022-03-19 14:00:20,827 [INFO] The question number is 3
+2022-03-19 14:00:21,439 [INFO] The decision number is 3
+2022-03-19 14:00:21,440 [INFO] The question number is 5
+2022-03-19 14:00:23,954 [INFO] The decision number is 3
+2022-03-19 14:00:23,954 [INFO] The question number is 7
+2022-03-19 14:00:24,467 [INFO] The decision number is 3
+2022-03-19 14:00:24,467 [INFO] The question number is 3
+2022-03-19 14:00:24,927 [INFO] The decision number is 2
+2022-03-19 14:00:24,928 [INFO] The question number is 7
+2022-03-19 14:00:25,418 [INFO] The decision number is 1
+2022-03-19 14:00:25,419 [INFO] The question number is 2
+2022-03-19 14:00:25,831 [INFO] The decision number is 1
+2022-03-19 14:00:25,831 [INFO] The question number is 5
+2022-03-19 14:00:26,213 [INFO] The decision number is 2
+2022-03-19 14:01:13,403 [INFO] The question number is 1
+2022-03-21 15:55:01,863 [INFO] The question number is 1
+2022-03-21 15:55:06,352 [INFO] The decision number is 1
+2022-03-21 15:55:06,352 [INFO] The question number is 2
+2022-03-21 15:55:11,505 [INFO] The decision number is 2
+2022-03-21 15:55:11,505 [INFO] The question number is 0
+2022-03-21 15:55:12,222 [INFO] The decision number is 3
+2022-03-21 15:55:12,223 [INFO] The question number is 9
+2022-03-21 15:55:13,964 [INFO] The decision number is 2
+2022-03-21 15:55:13,964 [INFO] The question number is 8
+2022-03-21 15:55:15,238 [INFO] The decision number is 3
+2022-03-21 15:55:15,238 [INFO] The question number is 4
+2022-03-21 15:55:15,526 [INFO] The decision number is 2
+2022-03-21 15:55:15,526 [INFO] The question number is 8
+2022-03-21 15:55:16,476 [INFO] The decision number is 3
+2022-03-21 15:55:16,476 [INFO] The question number is 6
+2022-03-21 15:55:18,408 [INFO] The decision number is 1
+2022-03-21 15:55:18,409 [INFO] The question number is 7
+2022-03-21 15:55:19,007 [INFO] The decision number is 2
+2022-03-21 15:55:19,007 [INFO] The question number is 9
+2022-03-21 15:55:19,981 [INFO] The decision number is 2
+2022-03-21 16:00:57,941 [INFO] The question number is 9
+2022-03-21 16:01:46,799 [INFO] The question number is 10
+2022-03-21 16:01:48,526 [INFO] The decision number is 1
+2022-03-21 16:01:48,527 [INFO] The question number is 4
+2022-03-21 16:01:49,378 [INFO] The decision number is 2
+2022-03-21 16:01:49,379 [INFO] The question number is 9
+2022-03-21 16:01:50,445 [INFO] The decision number is 1
+2022-03-21 16:01:50,446 [INFO] The question number is 1
+2022-03-21 16:01:51,445 [INFO] The decision number is 3
+2022-03-21 16:01:51,445 [INFO] The question number is 10
+2022-03-21 16:01:52,084 [INFO] The decision number is 2
+2022-03-21 16:01:52,084 [INFO] The question number is 6
+2022-03-21 16:01:52,759 [INFO] The decision number is 1
+2022-03-21 16:01:52,760 [INFO] The question number is 4
+2022-03-21 16:01:53,551 [INFO] The decision number is 2
+2022-03-21 16:01:53,551 [INFO] The question number is 7
+2022-03-21 16:01:55,616 [INFO] The decision number is 3
+2022-03-21 16:01:55,616 [INFO] The question number is 8
+2022-03-21 16:01:56,198 [INFO] The decision number is 2
+2022-03-21 16:01:56,198 [INFO] The question number is 6
+2022-03-21 16:01:56,693 [INFO] The decision number is 1
+2022-03-21 16:09:11,869 [INFO] The question number is 1
+2022-03-21 16:09:12,710 [INFO] The decision number is 1
+2022-03-21 16:09:12,711 [INFO] The question number is 8
+2022-03-21 16:09:13,258 [INFO] The decision number is 2
+2022-03-21 16:09:13,258 [INFO] The question number is 2
+2022-03-21 16:09:13,763 [INFO] The decision number is 3
+2022-03-21 16:09:13,764 [INFO] The question number is 7
+2022-03-21 16:09:14,518 [INFO] The decision number is 2
+2022-03-21 16:09:14,518 [INFO] The question number is 3
+2022-03-21 16:09:14,894 [INFO] The decision number is 1
+2022-03-21 16:09:14,894 [INFO] The question number is 10
+2022-03-21 16:09:15,249 [INFO] The decision number is 2
+2022-03-21 16:09:15,249 [INFO] The question number is 4
+2022-03-21 16:09:16,094 [INFO] The decision number is 3
+2022-03-21 16:09:16,094 [INFO] The question number is 5
+2022-03-21 16:09:16,494 [INFO] The decision number is 2
+2022-03-21 16:09:16,495 [INFO] The question number is 6
+2022-03-21 16:09:16,928 [INFO] The decision number is 1
+2022-03-21 16:09:16,928 [INFO] The question number is 9
+2022-03-21 16:09:17,733 [INFO] The decision number is 2
+2022-03-21 16:10:20,679 [INFO] The question number is 9
+2022-03-21 16:10:21,712 [INFO] The decision number is 1
+2022-03-21 16:10:21,713 [INFO] The question number is 7
+2022-03-21 16:10:21,915 [INFO] The decision number is 1
+2022-03-21 16:10:21,916 [INFO] The question number is 2
+2022-03-21 16:10:22,057 [INFO] The decision number is 1
+2022-03-21 16:10:22,058 [INFO] The question number is 4
+2022-03-21 16:10:22,201 [INFO] The decision number is 1
+2022-03-21 16:10:22,201 [INFO] The question number is 1
+2022-03-21 16:10:22,358 [INFO] The decision number is 1
+2022-03-21 16:10:22,359 [INFO] The question number is 10
+2022-03-21 16:10:22,497 [INFO] The decision number is 1
+2022-03-21 16:10:22,497 [INFO] The question number is 6
+2022-03-21 16:10:22,622 [INFO] The decision number is 1
+2022-03-21 16:10:22,622 [INFO] The question number is 8
+2022-03-21 16:10:23,024 [INFO] The decision number is 1
+2022-03-21 16:10:23,025 [INFO] The question number is 5
+2022-03-21 16:10:23,416 [INFO] The decision number is 1
+2022-03-21 16:10:23,416 [INFO] The question number is 3
+2022-03-21 16:10:24,048 [INFO] The decision number is 1
+2022-03-21 16:11:14,246 [INFO] The question number is 2
+2022-03-21 16:11:14,760 [INFO] The decision number is 1
+2022-03-21 16:11:14,761 [INFO] The question number is 5
+2022-03-21 16:11:14,908 [INFO] The decision number is 1
+2022-03-21 16:11:14,908 [INFO] The question number is 1
+2022-03-21 16:11:15,046 [INFO] The decision number is 1
+2022-03-21 16:11:15,047 [INFO] The question number is 7
+2022-03-21 16:11:15,187 [INFO] The decision number is 1
+2022-03-21 16:11:15,188 [INFO] The question number is 10
+2022-03-21 16:11:15,349 [INFO] The decision number is 1
+2022-03-21 16:11:15,349 [INFO] The question number is 6
+2022-03-21 16:11:24,524 [INFO] The question number is 6
+2022-03-21 16:11:25,051 [INFO] The decision number is 1
+2022-03-21 16:11:25,051 [INFO] The question number is 2
+2022-03-21 16:11:25,361 [INFO] The decision number is 1
+2022-03-21 16:11:25,361 [INFO] The question number is 7
+2022-03-21 16:11:25,666 [INFO] The decision number is 1
+2022-03-21 16:11:25,666 [INFO] The question number is 9
+2022-03-21 16:11:25,991 [INFO] The decision number is 1
+2022-03-21 16:11:25,992 [INFO] The question number is 3
+2022-03-21 16:11:26,310 [INFO] The decision number is 1
+2022-03-21 16:11:26,311 [INFO] The question number is 10
+2022-03-21 16:11:26,634 [INFO] The decision number is 1
+2022-03-21 16:11:26,635 [INFO] The question number is 8
+2022-03-21 16:11:27,001 [INFO] The decision number is 1
+2022-03-21 16:11:27,001 [INFO] The question number is 1
+2022-03-21 16:11:27,347 [INFO] The decision number is 1
+2022-03-21 16:11:27,348 [INFO] The question number is 4
+2022-03-21 16:11:27,752 [INFO] The decision number is 1
+2022-03-21 16:11:27,752 [INFO] The question number is 5
+2022-03-21 16:11:28,209 [INFO] The decision number is 1
+2022-03-21 16:13:10,963 [INFO] The question number is 2
+2022-03-21 16:13:41,576 [INFO] The question number is 3
+2022-03-21 16:14:23,656 [INFO] The question number is 8
+2022-03-21 16:15:21,591 [INFO] The question number is 8
+2022-03-21 16:15:54,918 [INFO] The question number is 2
+2022-03-21 16:16:16,189 [INFO] The question number is 6
+2022-03-21 16:16:30,897 [INFO] The question number is 1
+2022-03-21 16:16:49,534 [INFO] The question number is 3
+2022-03-21 16:17:30,159 [INFO] The question number is 8
+2022-03-21 16:18:45,193 [INFO] The question number is 4
+2022-03-21 16:18:57,864 [INFO] The question number is 9
+2022-03-22 00:19:30,671 [INFO] The question number is 8
+2022-03-22 00:20:08,772 [INFO] The decision number is 2
+2022-03-22 00:20:08,772 [INFO] The question number is 4
+2022-03-22 00:20:09,735 [INFO] The decision number is 1
+2022-03-22 00:20:09,735 [INFO] The question number is 1
+2022-03-22 00:20:10,269 [INFO] The decision number is 3
+2022-03-22 00:20:10,270 [INFO] The question number is 5
+2022-03-22 00:20:10,690 [INFO] The decision number is 2
+2022-03-22 00:20:10,690 [INFO] The question number is 6
+2022-03-22 00:20:14,524 [INFO] The decision number is 1
+2022-03-22 00:20:14,525 [INFO] The question number is 9
+2022-03-22 00:20:14,963 [INFO] The decision number is 2
+2022-03-22 00:20:14,964 [INFO] The question number is 3
+2022-03-22 00:20:15,341 [INFO] The decision number is 1
+2022-03-22 00:20:15,341 [INFO] The question number is 2
+2022-03-22 00:20:15,674 [INFO] The decision number is 2
+2022-03-22 00:20:15,674 [INFO] The question number is 7
+2022-03-22 00:20:16,038 [INFO] The decision number is 3
+2022-03-22 00:20:16,039 [INFO] The question number is 10
+2022-03-22 00:20:16,416 [INFO] The decision number is 2
+2022-03-22 00:21:20,906 [INFO] The question number is 2
+2022-03-22 00:21:22,137 [INFO] The decision number is 1
+2022-03-22 00:21:22,137 [INFO] The question number is 1
+2022-03-22 00:21:30,792 [INFO] The decision number is 2
+2022-03-22 00:21:30,793 [INFO] The question number is 10
+2022-03-22 00:26:41,036 [INFO] The question number is 3
+2022-03-22 00:26:43,240 [INFO] The decision number is 2
+2022-03-22 00:26:43,240 [INFO] The question number is 7
+2022-03-22 00:26:44,989 [INFO] The decision number is 2
+2022-03-22 00:26:44,990 [INFO] The question number is 2
+2022-03-22 00:26:45,734 [INFO] The decision number is 2
+2022-03-22 00:26:45,734 [INFO] The question number is 6
+2022-03-22 00:26:46,224 [INFO] The decision number is 2
+2022-03-22 00:26:46,224 [INFO] The question number is 5
+2022-03-22 00:26:46,724 [INFO] The decision number is 2
+2022-03-22 00:26:46,724 [INFO] The question number is 10
+2022-03-22 00:26:47,263 [INFO] The decision number is 2
+2022-03-22 00:26:47,263 [INFO] The question number is 9
+2022-03-22 00:26:47,813 [INFO] The decision number is 2
+2022-03-22 00:26:47,813 [INFO] The question number is 1
+2022-03-22 00:28:09,683 [INFO] The question number is 9
+2022-03-22 00:28:10,724 [INFO] The decision number is 2
+2022-03-22 00:28:10,725 [INFO] The question number is 3
+2022-03-22 00:28:11,212 [INFO] The decision number is 2
+2022-03-22 00:28:11,212 [INFO] The question number is 7
+2022-03-22 00:28:11,836 [INFO] The decision number is 3
+2022-03-22 00:28:11,837 [INFO] The question number is 2
+2022-03-22 00:28:13,248 [INFO] The decision number is 2
+2022-03-22 00:28:13,249 [INFO] The question number is 6
+2022-03-22 00:28:13,698 [INFO] The decision number is 2
+2022-03-22 00:28:13,698 [INFO] The question number is 1
+2022-03-22 00:30:28,919 [INFO] The question number is 9
+2022-03-22 00:30:29,955 [INFO] The decision number is 1
+2022-03-22 00:30:29,955 [INFO] The question number is 1
+2022-03-22 00:36:38,229 [INFO] The question number is 7
+2022-03-22 00:36:40,371 [INFO] The decision number is 1
+2022-03-22 00:36:40,372 [INFO] The question number is 10
+2022-03-22 00:36:40,993 [INFO] The decision number is 1
+2022-03-22 00:36:40,993 [INFO] The question number is 1
+2022-03-22 00:38:58,970 [INFO] The question number is 7
+2022-03-22 00:39:00,660 [INFO] The decision number is 2
+2022-03-22 00:39:00,661 [INFO] The question number is 8
+2022-03-22 00:39:01,139 [INFO] The decision number is 2
+2022-03-22 00:39:01,139 [INFO] The question number is 3
+2022-03-22 00:39:01,642 [INFO] The decision number is 2
+2022-03-22 00:39:01,643 [INFO] The question number is 4
+2022-03-22 00:39:02,131 [INFO] The decision number is 2
+2022-03-22 00:39:02,131 [INFO] The question number is 5
+2022-03-22 00:39:02,610 [INFO] The decision number is 2
+2022-03-22 00:39:02,610 [INFO] The question number is 1
+2022-03-22 00:42:46,866 [INFO] The question number is 5
+2022-03-22 00:42:48,038 [INFO] The decision number is 2
+2022-03-22 00:42:48,038 [INFO] The question number is 7
+2022-03-22 00:42:49,363 [INFO] The decision number is 2
+2022-03-22 00:42:49,363 [INFO] The question number is 9
+2022-03-22 00:42:49,705 [INFO] The decision number is 2
+2022-03-22 00:42:49,705 [INFO] The question number is 1
+2022-03-22 00:49:40,965 [INFO] The question number is 1
+2022-03-22 00:49:47,959 [INFO] The decision number is 2
+2022-03-22 00:49:47,959 [INFO] The question number is 2
+2022-03-22 08:14:45,623 [INFO] The question number is 5
+2022-03-22 08:14:50,955 [INFO] The decision number is 2
+2022-03-22 08:14:50,956 [INFO] The question number is 6
+2022-03-22 08:14:51,430 [INFO] The decision number is 2
+2022-03-22 08:14:51,431 [INFO] The question number is 4
+2022-03-22 08:14:51,967 [INFO] The decision number is 2
+2022-03-22 08:14:51,968 [INFO] The question number is 1
+2022-03-22 08:16:26,327 [INFO] The question number is 6
+2022-03-22 08:16:38,247 [INFO] The question number is 9
+2022-03-22 08:16:39,532 [INFO] The decision number is 1
+2022-03-22 08:16:39,532 [INFO] The question number is 4
+2022-03-22 08:16:41,657 [INFO] The decision number is 1
+2022-03-22 08:16:41,657 [INFO] The question number is 2
+2022-03-22 08:16:42,260 [INFO] The decision number is 2
+2022-03-22 08:16:42,261 [INFO] The question number is 7
+2022-03-22 08:16:42,779 [INFO] The decision number is 1
+2022-03-22 08:16:42,780 [INFO] The question number is 1
+2022-03-22 08:21:04,126 [INFO] The question number is 4
+2022-03-22 08:21:06,864 [INFO] The decision number is 1
+2022-03-22 08:21:06,865 [INFO] The question number is 8
+2022-03-22 08:21:07,466 [INFO] The decision number is 2
+2022-03-22 08:21:07,467 [INFO] The question number is 1
+2022-03-22 14:33:29,149 [INFO] The question number is 6
+2022-03-22 14:33:30,544 [INFO] The decision number is 1
+2022-03-22 14:33:30,544 [INFO] The question number is 1
+2022-03-22 14:33:32,351 [INFO] The decision number is 2
+2022-03-22 14:33:32,352 [INFO] The question number is 10
+2022-03-22 14:33:33,208 [INFO] The decision number is 2
+2022-03-22 14:33:33,208 [INFO] The question number is 5
+2022-03-22 14:33:33,710 [INFO] The decision number is 1
+2022-03-22 14:33:33,710 [INFO] The question number is 8
+2022-03-22 14:33:34,405 [INFO] The decision number is 3
+2022-03-22 14:33:34,406 [INFO] The question number is 2
+2022-03-22 14:33:35,247 [INFO] The decision number is 2
+2022-03-22 14:33:35,247 [INFO] The question number is 3
+2022-03-22 14:33:36,054 [INFO] The decision number is 1
+2022-03-22 14:33:36,055 [INFO] The question number is 4
+2022-03-22 14:33:36,720 [INFO] The decision number is 2
+2022-03-22 14:33:36,721 [INFO] The question number is 9
+2022-03-22 14:33:37,977 [INFO] The decision number is 3
+2022-03-22 14:33:37,977 [INFO] The question number is 7
+2022-03-22 14:33:38,530 [INFO] The decision number is 2
+2022-03-22 14:34:10,928 [INFO] The question number is 10
+2022-03-22 14:34:12,210 [INFO] The decision number is 2
+2022-03-22 14:34:12,211 [INFO] The question number is 2
+2022-03-22 14:34:12,688 [INFO] The decision number is 3
+2022-03-22 14:34:12,688 [INFO] The question number is 5
+2022-03-22 14:34:13,044 [INFO] The decision number is 2
+2022-03-22 14:34:13,044 [INFO] The question number is 6
+2022-03-22 14:34:14,335 [INFO] The decision number is 1
+2022-03-22 14:34:14,335 [INFO] The question number is 7
+2022-03-22 14:34:14,731 [INFO] The decision number is 2
+2022-03-22 14:34:14,731 [INFO] The question number is 8
+2022-03-22 14:34:15,497 [INFO] The decision number is 1
+2022-03-22 14:34:15,497 [INFO] The question number is 3
+2022-03-22 14:34:15,952 [INFO] The decision number is 2
+2022-03-22 14:34:15,953 [INFO] The question number is 9
+2022-03-22 14:34:16,459 [INFO] The decision number is 3
+2022-03-22 14:34:16,460 [INFO] The question number is 1
+2022-03-22 14:34:17,309 [INFO] The decision number is 3
+2022-03-22 14:34:17,309 [INFO] The question number is 4
+2022-03-22 14:34:18,195 [INFO] The decision number is 2
+2022-03-22 14:35:24,551 [INFO] The question number is 4
+2022-03-22 14:35:26,313 [INFO] The decision number is 1
+2022-03-22 14:36:27,479 [INFO] The question number is 10
+2022-03-22 14:36:28,786 [INFO] The decision number is 2
+2022-03-22 14:37:45,669 [INFO] The question number is 3
+2022-03-22 14:37:46,548 [INFO] The decision number is 2
+2022-03-22 14:39:24,747 [INFO] The question number is 8
+2022-03-22 14:39:25,972 [INFO] The decision number is 2
+2022-03-22 14:40:29,910 [INFO] The question number is 4
+2022-03-22 14:40:31,112 [INFO] The decision number is 2
+2022-03-22 14:41:07,173 [INFO] The question number is 6
+2022-03-22 14:41:07,654 [INFO] The decision number is 2
+2022-03-22 14:41:07,654 [INFO] The question number is 4
+2022-03-22 14:41:08,446 [INFO] The decision number is 1
+2022-03-22 14:41:08,446 [INFO] The question number is 3
+2022-03-22 14:41:08,812 [INFO] The decision number is 2
+2022-03-22 14:41:08,812 [INFO] The question number is 7
+2022-03-22 14:41:09,164 [INFO] The decision number is 3
+2022-03-22 14:41:09,164 [INFO] The question number is 8
+2022-03-22 14:41:09,523 [INFO] The decision number is 2
+2022-03-22 14:41:09,523 [INFO] The question number is 1
+2022-03-22 14:41:10,752 [INFO] The decision number is 2
+2022-03-22 14:41:10,752 [INFO] The question number is 9
+2022-03-22 14:41:11,222 [INFO] The decision number is 2
+2022-03-22 14:41:11,222 [INFO] The question number is 10
+2022-03-22 14:41:11,569 [INFO] The decision number is 1
+2022-03-22 14:41:11,570 [INFO] The question number is 2
+2022-03-22 14:41:11,836 [INFO] The decision number is 2
+2022-03-22 14:41:11,836 [INFO] The question number is 5
+2022-03-22 14:41:12,493 [INFO] The decision number is 3
+2022-03-22 16:12:48,931 [INFO] The question number is 5
+2022-03-22 16:13:24,728 [INFO] The decision number is 2
+2022-03-22 16:13:24,728 [INFO] The question number is 8
+2022-03-22 16:13:29,716 [INFO] The decision number is 1
+2022-03-22 16:13:29,717 [INFO] The question number is 3
+2022-03-22 16:13:32,389 [INFO] The decision number is 3
+2022-03-22 16:13:32,389 [INFO] The question number is 4
+2022-03-22 16:13:37,358 [INFO] The decision number is 1
+2022-03-22 16:13:37,358 [INFO] The question number is 9
+2022-03-22 16:13:39,534 [INFO] The decision number is 2
+2022-03-22 16:13:39,535 [INFO] The question number is 2
+2022-03-22 16:13:42,860 [INFO] The decision number is 2
+2022-03-22 16:13:42,860 [INFO] The question number is 7
+2022-03-22 16:13:45,007 [INFO] The decision number is 3
+2022-03-22 16:13:45,008 [INFO] The question number is 1
+2022-03-22 16:13:48,791 [INFO] The decision number is 2
+2022-03-22 16:13:48,791 [INFO] The question number is 10
+2022-03-22 16:14:01,705 [INFO] The decision number is 1
+2022-03-22 16:14:01,706 [INFO] The question number is 6
+2022-03-22 16:14:04,471 [INFO] The decision number is 2
+2022-03-22 16:14:18,098 [INFO] The question number is 7
+2022-03-22 16:14:20,082 [INFO] The decision number is 2
+2022-03-22 16:14:20,083 [INFO] The question number is 2
+2022-03-22 16:14:22,450 [INFO] The decision number is 2
+2022-03-22 16:14:22,450 [INFO] The question number is 5
+2022-03-22 17:10:20,300 [INFO] The question number is 3
+2022-03-22 17:10:23,909 [INFO] The decision number is 1
+2022-03-22 17:10:23,910 [INFO] The question number is 1
+2022-03-22 17:10:24,602 [INFO] The decision number is 2
+2022-03-22 17:10:24,603 [INFO] The question number is 7
+2022-03-22 17:10:25,141 [INFO] The decision number is 3
+2022-03-22 17:10:25,142 [INFO] The question number is 10
+2022-03-22 17:10:26,214 [INFO] The decision number is 1
+2022-03-22 17:10:26,214 [INFO] The question number is 8
+2022-03-22 17:10:27,259 [INFO] The decision number is 3
+2022-03-22 17:10:27,260 [INFO] The question number is 6
+2022-03-22 17:10:28,396 [INFO] The decision number is 2
+2022-03-22 17:10:28,397 [INFO] The question number is 5
+2022-03-22 17:10:29,262 [INFO] The decision number is 3
+2022-03-22 17:10:29,262 [INFO] The question number is 9
+2022-03-22 17:10:30,018 [INFO] The decision number is 1
+2022-03-22 17:10:30,018 [INFO] The question number is 4
+2022-03-22 17:10:30,709 [INFO] The decision number is 2
+2022-03-22 17:10:30,710 [INFO] The question number is 2
+2022-03-22 17:10:31,367 [INFO] The decision number is 3
+2022-03-22 18:07:06,215 [INFO] The question number is 5
+2022-03-22 18:07:07,733 [INFO] The decision number is 2
+2022-03-22 18:07:07,733 [INFO] The question number is 7
+2022-03-22 18:07:09,269 [INFO] The decision number is 3
+2022-03-22 18:07:09,270 [INFO] The question number is 9
+2022-03-22 18:07:10,657 [INFO] The decision number is 3
+2022-03-22 18:07:10,658 [INFO] The question number is 1
+2022-03-22 18:07:12,274 [INFO] The decision number is 2
+2022-03-22 18:07:12,274 [INFO] The question number is 3
+2022-03-22 18:07:13,664 [INFO] The decision number is 3
+2022-03-22 18:07:13,665 [INFO] The question number is 6
+2022-03-22 18:07:14,249 [INFO] The decision number is 2
+2022-03-22 18:07:14,249 [INFO] The question number is 10
+2022-03-22 18:07:14,965 [INFO] The decision number is 3
+2022-03-22 18:07:14,965 [INFO] The question number is 2
+2022-03-22 18:07:16,389 [INFO] The decision number is 2
+2022-03-22 18:07:16,390 [INFO] The question number is 8
+2022-03-22 18:16:38,927 [INFO] The question number is 2
+2022-03-22 18:37:41,989 [INFO] The question number is 9
+2022-03-22 18:37:43,572 [INFO] The decision number is 1
+2022-03-22 18:37:43,573 [INFO] The question number is 5
+2022-03-22 18:37:56,427 [INFO] The decision number is 2
+2022-03-22 18:37:56,428 [INFO] The question number is 3
+2022-03-22 18:37:57,082 [INFO] The decision number is 2
+2022-03-22 18:37:57,083 [INFO] The question number is 6
+2022-03-22 18:37:57,815 [INFO] The decision number is 3
+2022-03-22 18:37:57,815 [INFO] The question number is 4
+2022-03-22 18:37:58,272 [INFO] The decision number is 2
+2022-03-22 18:37:58,273 [INFO] The question number is 1
+2022-03-22 18:38:00,412 [INFO] The decision number is 2
+2022-03-22 18:38:00,413 [INFO] The question number is 2
+2022-03-22 18:38:01,017 [INFO] The decision number is 2
+2022-03-22 18:38:01,017 [INFO] The question number is 10
+2022-03-22 18:38:01,642 [INFO] The decision number is 3
+2022-03-22 18:38:01,643 [INFO] The question number is 8
+2022-03-22 18:38:02,245 [INFO] The decision number is 2
+2022-03-22 18:38:02,246 [INFO] The question number is 7
+2022-03-22 18:38:03,008 [INFO] The decision number is 1
+2022-03-22 18:47:26,010 [INFO] The question number is 8
+2022-03-22 18:47:29,173 [INFO] The decision number is 1
+2022-03-22 18:47:29,174 [INFO] The question number is 10
+2022-03-22 18:47:31,507 [INFO] The decision number is 2
+2022-03-22 18:47:31,507 [INFO] The question number is 2
+2022-03-22 18:47:33,032 [INFO] The decision number is 2
+2022-03-22 18:47:33,033 [INFO] The question number is 9
+2022-03-22 18:47:36,189 [INFO] The decision number is 3
+2022-03-22 18:47:36,190 [INFO] The question number is 5
+2022-03-22 18:47:37,865 [INFO] The decision number is 2
+2022-03-22 18:47:37,866 [INFO] The question number is 1
+2022-03-22 18:52:22,658 [INFO] The question number is 7
+2022-03-22 18:52:30,929 [INFO] The decision number is 2
+2022-03-22 18:52:30,930 [INFO] The question number is 1
+2022-03-22 18:52:31,606 [INFO] The decision number is 2
+2022-03-22 18:52:31,606 [INFO] The question number is 3
+2022-03-22 18:52:32,298 [INFO] The decision number is 3
+2022-03-22 18:52:32,299 [INFO] The question number is 2
+2022-03-22 18:52:33,106 [INFO] The decision number is 2
+2022-03-22 18:52:33,107 [INFO] The question number is 6
+2022-03-22 18:52:34,082 [INFO] The decision number is 3
+2022-03-22 18:52:34,083 [INFO] The question number is 10
+2022-03-22 18:52:35,548 [INFO] The decision number is 2
+2022-03-22 18:52:35,548 [INFO] The question number is 4
+2022-03-22 18:52:36,182 [INFO] The decision number is 3
+2022-03-22 18:52:36,182 [INFO] The question number is 8
+2022-03-22 18:52:37,808 [INFO] The decision number is 2
+2022-03-22 18:52:37,809 [INFO] The question number is 9
+2022-03-22 18:52:38,472 [INFO] The decision number is 3
+2022-03-22 18:52:38,472 [INFO] The question number is 5
+2022-03-22 18:52:39,240 [INFO] The decision number is 2
+2022-03-22 18:58:51,684 [INFO] The question number is 1
+2022-03-22 18:58:52,187 [INFO] The decision number is 2
+2022-03-22 18:58:52,188 [INFO] The question number is 6
+2022-03-22 18:58:52,831 [INFO] The decision number is 2
+2022-03-22 18:58:52,832 [INFO] The question number is 3
+2022-03-22 18:58:53,451 [INFO] The decision number is 3
+2022-03-22 18:58:53,451 [INFO] The question number is 10
+2022-03-22 18:58:54,423 [INFO] The decision number is 1
+2022-03-22 18:58:54,424 [INFO] The question number is 7
+2022-03-22 18:58:55,239 [INFO] The decision number is 3
+2022-03-22 18:58:55,239 [INFO] The question number is 9
+2022-03-22 18:58:56,374 [INFO] The decision number is 2
+2022-03-22 18:58:56,375 [INFO] The question number is 5
+2022-03-22 18:58:57,224 [INFO] The decision number is 3
+2022-03-22 18:58:57,225 [INFO] The question number is 2
+2022-03-22 18:58:57,945 [INFO] The decision number is 2
+2022-03-22 18:58:57,946 [INFO] The question number is 8
+2022-03-22 18:58:58,518 [INFO] The decision number is 3
+2022-03-22 18:58:58,519 [INFO] The question number is 4
+2022-03-22 18:58:58,959 [INFO] The decision number is 2
+2022-03-22 18:59:40,456 [INFO] The question number is 6
+2022-03-22 18:59:40,940 [INFO] The decision number is 2
+2022-03-22 18:59:40,941 [INFO] The question number is 9
+2022-03-22 18:59:41,805 [INFO] The decision number is 2
+2022-03-22 18:59:41,806 [INFO] The question number is 7
+2022-03-22 18:59:42,323 [INFO] The decision number is 2
+2022-03-22 18:59:42,323 [INFO] The question number is 10
+2022-03-22 18:59:43,066 [INFO] The decision number is 2
+2022-03-22 18:59:43,067 [INFO] The question number is 4
+2022-03-22 18:59:43,631 [INFO] The decision number is 3
+2022-03-22 18:59:43,632 [INFO] The question number is 3
+2022-03-22 18:59:44,149 [INFO] The decision number is 2
+2022-03-22 18:59:44,149 [INFO] The question number is 5
+2022-03-22 18:59:44,605 [INFO] The decision number is 1
+2022-03-22 18:59:44,606 [INFO] The question number is 2
+2022-03-22 18:59:45,159 [INFO] The decision number is 3
+2022-03-22 18:59:45,159 [INFO] The question number is 8
+2022-03-22 18:59:45,574 [INFO] The decision number is 2
+2022-03-22 18:59:45,575 [INFO] The question number is 1
+2022-03-22 18:59:46,382 [INFO] The decision number is 2
+2022-03-25 17:52:11,935 [INFO] The question number is 4
+2022-03-25 17:52:13,706 [INFO] The decision number is 1
+2022-03-25 17:52:13,707 [INFO] The question number is 2
+2022-03-25 17:52:14,196 [INFO] The decision number is 2
+2022-03-25 17:52:14,196 [INFO] The question number is 5
+2022-03-25 17:52:14,647 [INFO] The decision number is 3
+2022-03-25 17:52:14,648 [INFO] The question number is 10
+2022-03-25 17:52:15,377 [INFO] The decision number is 2
+2022-03-25 17:52:15,378 [INFO] The question number is 7
+2022-03-25 17:52:15,956 [INFO] The decision number is 1
+2022-03-25 17:52:15,956 [INFO] The question number is 6
+2022-03-25 17:52:16,448 [INFO] The decision number is 2
+2022-03-25 17:52:16,448 [INFO] The question number is 8
+2022-03-25 17:52:16,971 [INFO] The decision number is 3
+2022-03-25 17:52:16,972 [INFO] The question number is 3
+2022-03-25 17:52:17,521 [INFO] The decision number is 2
+2022-03-25 17:52:17,521 [INFO] The question number is 9
+2022-03-25 17:52:17,983 [INFO] The decision number is 1
+2022-03-25 17:52:17,984 [INFO] The question number is 1
+2022-03-25 17:52:18,535 [INFO] The decision number is 3
+2022-03-25 19:46:27,972 [INFO] The question number is 9
+2022-03-25 19:46:29,346 [INFO] The decision number is 2
+2022-03-25 19:46:29,347 [INFO] The question number is 10
+2022-03-25 19:46:44,293 [INFO] The decision number is 3
+2022-03-25 19:46:44,294 [INFO] The question number is 3
+2022-03-25 19:46:45,187 [INFO] The decision number is 2
+2022-03-25 19:46:45,188 [INFO] The question number is 5
+2022-03-25 19:46:45,850 [INFO] The decision number is 1
+2022-03-25 19:46:45,850 [INFO] The question number is 2
+2022-03-25 19:46:46,666 [INFO] The decision number is 3
+2022-03-25 19:46:46,666 [INFO] The question number is 4
+2022-03-25 19:46:47,316 [INFO] The decision number is 2
+2022-03-25 19:46:47,316 [INFO] The question number is 8
+2022-03-25 19:46:47,842 [INFO] The decision number is 3
+2022-03-25 19:46:47,842 [INFO] The question number is 6
+2022-03-25 19:46:48,723 [INFO] The decision number is 1
+2022-03-25 19:46:48,723 [INFO] The question number is 1
+2022-03-25 19:46:49,254 [INFO] The decision number is 2
+2022-03-25 19:46:49,254 [INFO] The question number is 7
+2022-03-25 19:46:49,843 [INFO] The decision number is 3
+2022-03-25 19:47:11,140 [INFO] The question number is 3
+2022-03-25 19:47:11,796 [INFO] The decision number is 2
+2022-03-25 19:47:11,797 [INFO] The question number is 2
+2022-03-25 19:47:12,283 [INFO] The decision number is 3
+2022-03-25 19:47:12,284 [INFO] The question number is 9
+2022-03-25 19:47:13,047 [INFO] The decision number is 1
+2022-03-25 19:47:13,047 [INFO] The question number is 8
+2022-03-25 19:47:13,724 [INFO] The decision number is 2
+2022-03-25 19:47:13,724 [INFO] The question number is 7
+2022-03-25 19:47:14,204 [INFO] The decision number is 3
+2022-03-25 19:47:14,204 [INFO] The question number is 1
+2022-03-25 19:47:14,619 [INFO] The decision number is 2
+2022-03-25 19:47:14,619 [INFO] The question number is 10
+2022-03-25 19:47:15,293 [INFO] The decision number is 1
+2022-03-25 19:47:15,294 [INFO] The question number is 6
+2022-03-25 19:47:15,824 [INFO] The decision number is 3
+2022-03-25 19:47:15,825 [INFO] The question number is 4
+2022-03-25 19:47:16,213 [INFO] The decision number is 2
+2022-03-25 19:47:16,213 [INFO] The question number is 5
+2022-03-25 19:47:16,780 [INFO] The decision number is 1
+2022-03-25 19:49:45,836 [INFO] The question number is 10
+2022-03-25 19:49:47,501 [INFO] The decision number is 2
+2022-03-25 19:49:47,501 [INFO] The question number is 9
+2022-03-25 19:49:48,218 [INFO] The decision number is 2
+2022-03-25 19:49:48,218 [INFO] The question number is 6
+2022-03-25 19:49:48,824 [INFO] The decision number is 3
+2022-03-25 19:49:48,825 [INFO] The question number is 3
+2022-03-25 19:49:49,334 [INFO] The decision number is 2
+2022-03-25 19:49:49,334 [INFO] The question number is 7
+2022-03-25 19:49:49,791 [INFO] The decision number is 2
+2022-03-25 19:49:49,791 [INFO] The question number is 8
+2022-03-25 19:49:50,721 [INFO] The decision number is 2
+2022-03-25 19:49:50,722 [INFO] The question number is 1
+2022-03-25 19:49:51,298 [INFO] The decision number is 3
+2022-03-25 19:49:51,299 [INFO] The question number is 4
+2022-03-25 19:49:51,824 [INFO] The decision number is 2
+2022-03-25 19:49:51,824 [INFO] The question number is 5
+2022-03-25 19:49:52,591 [INFO] The decision number is 2
+2022-03-25 19:49:52,592 [INFO] The question number is 2
+2022-03-25 19:49:53,164 [INFO] The decision number is 3
+2022-03-25 21:25:32,654 [INFO] The question number is 6
+2022-03-25 21:26:00,246 [INFO] The question number is 2
+2022-03-25 21:26:49,513 [INFO] The question number is 7
+2022-03-25 21:27:35,466 [INFO] The question number is 9
+2022-03-25 21:29:58,357 [INFO] The question number is 4
+2022-03-25 21:58:53,608 [INFO] The question number is 1
+2022-03-25 22:02:29,325 [INFO] The question number is 5
+2022-03-25 22:02:29,325 [INFO] The question number is 10
+2022-03-25 22:02:29,326 [INFO] The question number is 7
+2022-03-25 22:02:29,326 [INFO] The question number is 9
+2022-03-25 22:02:29,326 [INFO] The question number is 4
+2022-03-25 22:02:29,327 [INFO] The question number is 6
+2022-03-25 22:02:29,327 [INFO] The question number is 1
+2022-03-25 22:02:29,327 [INFO] The question number is 8
+2022-03-25 22:02:29,327 [INFO] The question number is 3
+2022-03-25 22:02:29,327 [INFO] The question number is 2
+2022-03-25 22:03:03,608 [INFO] The question number is 2
+2022-03-25 22:03:03,610 [INFO] The question number is 3
+2022-03-25 22:03:03,612 [INFO] The question number is 1
+2022-03-25 22:03:03,614 [INFO] The question number is 4
+2022-03-25 22:03:03,615 [INFO] The question number is 6
+2022-03-25 22:03:03,616 [INFO] The question number is 5
+2022-03-25 22:03:03,617 [INFO] The question number is 8
+2022-03-25 22:03:03,618 [INFO] The question number is 10
+2022-03-25 22:03:03,619 [INFO] The question number is 9
+2022-03-25 22:03:03,620 [INFO] The question number is 7
+2022-03-25 22:14:44,383 [INFO] The question number is 3
+2022-03-25 22:16:34,460 [INFO] The question number is 4
+2022-03-25 22:16:34,462 [INFO] The question number is 9
+2022-03-25 22:16:34,463 [INFO] The question number is 6
+2022-03-25 22:16:34,465 [INFO] The question number is 2
+2022-03-25 22:16:34,466 [INFO] The question number is 8
+2022-03-25 22:16:34,469 [INFO] The question number is 3
+2022-03-25 22:16:34,470 [INFO] The question number is 7
+2022-03-25 22:16:34,472 [INFO] The question number is 5
+2022-03-25 22:16:34,473 [INFO] The question number is 1
+2022-03-25 22:16:34,475 [INFO] The question number is 10
+2022-03-25 22:27:42,020 [INFO] The question number is 4
+2022-03-25 22:29:49,574 [INFO] The question number is 6
+2022-03-25 22:29:49,576 [INFO] The question number is 3
+2022-03-25 22:29:49,577 [INFO] The question number is 7
+2022-03-25 22:29:49,578 [INFO] The question number is 2
+2022-03-25 22:29:49,579 [INFO] The question number is 9
+2022-03-25 22:29:49,581 [INFO] The question number is 8
+2022-03-25 22:29:49,582 [INFO] The question number is 5
+2022-03-25 22:29:49,583 [INFO] The question number is 10
+2022-03-25 22:29:49,585 [INFO] The question number is 4
+2022-03-25 22:29:49,586 [INFO] The question number is 1
+2022-03-26 13:32:49,562 [INFO] The question number is 2
+2022-03-26 13:32:49,565 [INFO] The question number is 3
+2022-03-26 13:32:49,566 [INFO] The question number is 9
+2022-03-26 13:32:49,567 [INFO] The question number is 6
+2022-03-26 13:32:49,569 [INFO] The question number is 5
+2022-03-26 13:32:49,570 [INFO] The question number is 4
+2022-03-26 13:32:49,571 [INFO] The question number is 10
+2022-03-26 13:32:49,572 [INFO] The question number is 7
+2022-03-26 13:32:49,574 [INFO] The question number is 8
+2022-03-26 13:32:49,575 [INFO] The question number is 1
+2022-03-26 13:43:22,431 [INFO] The question number is 6
+2022-03-26 13:43:23,894 [INFO] The decision number is 2
+2022-03-26 13:43:23,895 [INFO] The question number is 5
+2022-03-26 13:43:24,701 [INFO] The decision number is 3
+2022-03-26 13:43:24,701 [INFO] The question number is 9
+2022-03-26 13:43:25,461 [INFO] The decision number is 1
+2022-03-26 13:43:25,462 [INFO] The question number is 2
+2022-03-26 13:43:25,949 [INFO] The decision number is 2
+2022-03-26 13:43:25,950 [INFO] The question number is 7
+2022-03-26 13:43:26,494 [INFO] The decision number is 3
+2022-03-26 13:43:26,494 [INFO] The question number is 4
+2022-03-26 13:43:26,907 [INFO] The decision number is 2
+2022-03-26 13:43:26,908 [INFO] The question number is 1
+2022-03-26 13:43:27,439 [INFO] The decision number is 1
+2022-03-26 13:43:27,439 [INFO] The question number is 8
+2022-03-26 13:43:28,310 [INFO] The decision number is 2
+2022-03-26 13:43:28,310 [INFO] The question number is 3
+2022-03-26 13:43:28,987 [INFO] The decision number is 3
+2022-03-26 13:43:28,988 [INFO] The question number is 10
+2022-03-26 13:43:29,927 [INFO] The decision number is 1
+2022-03-26 16:56:11,139 [INFO] Saved a Run
+2022-03-26 16:56:53,554 [INFO] 20
+2022-03-26 16:56:53,554 [INFO] Saved a Run
+2022-03-26 17:01:49,239 [INFO] 20
+2022-03-26 17:01:49,249 [INFO] 1
+2022-03-26 17:01:49,265 [INFO] Saved a Run
+2022-03-26 17:01:49,268 [INFO] 2
+2022-03-26 17:01:49,281 [INFO] 3
+2022-03-26 17:01:49,282 [INFO] 4
+2022-03-26 17:01:49,283 [INFO] 5
+2022-03-26 17:01:49,284 [INFO] 6
+2022-03-26 17:01:49,284 [INFO] 7
+2022-03-26 17:01:49,285 [INFO] 8
+2022-03-26 17:01:49,288 [INFO] 9
+2022-03-26 17:01:49,288 [INFO] 10
+2022-03-26 17:03:17,620 [INFO] 20
+2022-03-26 17:03:17,635 [INFO] 1
+2022-03-26 17:03:17,637 [INFO] Saved a Run
+2022-03-26 17:03:17,642 [INFO] 2
+2022-03-26 17:03:17,657 [INFO] 3
+2022-03-26 17:03:17,665 [INFO] 4
+2022-03-26 17:03:17,667 [INFO] 5
+2022-03-26 17:03:17,668 [INFO] 6
+2022-03-26 17:03:17,670 [INFO] 7
+2022-03-26 17:03:17,676 [INFO] 8
+2022-03-26 17:03:17,687 [INFO] 9
+2022-03-26 17:03:17,688 [INFO] 10
+2022-03-26 17:03:47,501 [INFO] 20
+2022-03-26 17:04:08,460 [INFO] 1
+2022-03-26 17:04:08,461 [INFO] Saved a Run
+2022-03-26 17:06:08,502 [INFO] 2
+2022-03-26 17:06:13,256 [INFO] 3
+2022-03-26 17:06:14,148 [INFO] 4
+2022-03-26 17:06:14,638 [INFO] 5
+2022-03-26 17:06:15,084 [INFO] 6
+2022-03-26 17:06:15,453 [INFO] 7
+2022-03-26 17:06:15,810 [INFO] 8
+2022-03-26 17:06:16,165 [INFO] 9
+2022-03-26 17:06:16,740 [INFO] 10
+2022-03-26 17:09:14,715 [INFO] 20
+2022-03-26 17:09:14,744 [INFO] 1
+2022-03-26 17:09:14,758 [INFO] Saved a Run
+2022-03-26 17:09:14,762 [INFO] 2
+2022-03-26 17:09:14,762 [INFO] 3
+2022-03-26 17:09:14,762 [INFO] 4
+2022-03-26 17:09:14,762 [INFO] 5
+2022-03-26 17:09:14,763 [INFO] 6
+2022-03-26 17:09:14,763 [INFO] 7
+2022-03-26 17:09:14,763 [INFO] 8
+2022-03-26 17:09:14,763 [INFO] 9
+2022-03-26 17:09:14,763 [INFO] 10
+2022-03-26 17:09:14,763 [INFO] 11
+2022-03-26 17:09:14,763 [INFO] Saved a Run
+2022-03-26 17:09:14,765 [INFO] 12
+2022-03-26 17:09:14,774 [INFO] 13
+2022-03-26 17:09:14,774 [INFO] 14
+2022-03-26 17:09:14,774 [INFO] 15
+2022-03-26 17:09:14,775 [INFO] 16
+2022-03-26 17:09:14,775 [INFO] 17
+2022-03-26 17:09:14,775 [INFO] 18
+2022-03-26 17:09:14,775 [INFO] 19
+2022-03-26 17:09:14,776 [INFO] 20
+2022-03-26 17:12:19,693 [INFO] 20
+2022-03-26 17:12:59,803 [INFO] 20
+2022-03-26 17:12:59,821 [INFO] Saved a Run
+2022-03-26 17:12:59,832 [INFO] Saved a Run
+2022-03-31 16:07:29,001 [INFO] Saved a Run
+2022-03-31 16:07:29,003 [INFO] Saved a Run
+2022-03-31 16:07:29,004 [INFO] Saved a Run
+2022-03-31 16:07:29,005 [INFO] Saved a Run
+2022-03-31 16:07:29,006 [INFO] Saved a Run
+2022-03-31 16:07:41,799 [INFO] Saved a Run
+2022-03-31 16:07:41,800 [INFO] Saved a Run
+2022-03-31 16:07:41,801 [INFO] Saved a Run
+2022-03-31 16:07:41,802 [INFO] Saved a Run
+2022-03-31 16:07:41,803 [INFO] Saved a Run
+2022-03-31 16:12:17,552 [INFO] Saved a Run
+2022-03-31 16:12:17,554 [INFO] Saved a Run
+2022-03-31 16:12:17,555 [INFO] Saved a Run
+2022-03-31 16:12:17,556 [INFO] Saved a Run
+2022-03-31 16:12:17,557 [INFO] Saved a Run
+2022-03-31 16:17:09,115 [INFO] Saved a Run
+2022-03-31 16:19:38,410 [INFO] Saved a Run
+2022-03-31 16:23:19,765 [INFO] Saved a Run
+2022-03-31 16:25:35,933 [INFO] Saved a Run
+2022-03-31 16:25:35,934 [INFO] Saved a Run
+2022-03-31 16:25:35,935 [INFO] Saved a Run
+2022-03-31 16:25:35,936 [INFO] Saved a Run
+2022-03-31 16:25:35,937 [INFO] Saved a Run
+2022-03-31 16:26:19,592 [INFO] Saved a Run
+2022-03-31 16:26:34,725 [INFO] Saved a Run
+2022-03-31 16:29:44,620 [INFO] Saved a Run
+2022-03-31 16:29:44,622 [INFO] Saved a Run
+2022-03-31 16:29:44,623 [INFO] Saved a Run
+2022-03-31 16:29:44,624 [INFO] Saved a Run
+2022-03-31 16:29:44,625 [INFO] Saved a Run
+2022-03-31 16:29:57,615 [INFO] Saved a Run
+2022-03-31 16:29:57,616 [INFO] Saved a Run
+2022-03-31 16:29:57,617 [INFO] Saved a Run
+2022-03-31 16:29:57,618 [INFO] Saved a Run
+2022-03-31 16:29:57,619 [INFO] Saved a Run
+2022-03-31 16:30:47,694 [INFO] Saved a Run
+2022-03-31 16:30:47,696 [INFO] Saved a Run
+2022-03-31 16:30:47,697 [INFO] Saved a Run
+2022-03-31 16:30:47,698 [INFO] Saved a Run
+2022-03-31 16:30:47,699 [INFO] Saved a Run
+2022-03-31 16:31:54,630 [INFO] Saved a Run
+2022-03-31 16:31:54,631 [INFO] Saved a Run
+2022-03-31 16:31:54,632 [INFO] Saved a Run
+2022-03-31 16:31:54,633 [INFO] Saved a Run
+2022-03-31 16:31:54,634 [INFO] Saved a Run
+2022-03-31 16:32:57,196 [INFO] Saved a Run
+2022-03-31 16:32:57,197 [INFO] Saved a Run
+2022-03-31 16:32:57,198 [INFO] Saved a Run
+2022-03-31 16:32:57,199 [INFO] Saved a Run
+2022-03-31 16:32:57,201 [INFO] Saved a Run
+2022-03-31 16:33:42,623 [INFO] Saved a Run
+2022-03-31 16:36:13,104 [INFO] Saved a Run
+2022-03-31 16:37:10,708 [INFO] Saved a Run
+2022-03-31 16:43:20,254 [INFO] Saved a Run
+2022-03-31 16:43:20,256 [INFO] Saved a Run
+2022-03-31 16:49:29,884 [INFO] Saved a Run
+2022-03-31 16:49:29,886 [INFO] Saved a Run
+2022-03-31 16:49:29,887 [INFO] Saved a Run
+2022-03-31 16:49:29,888 [INFO] Saved a Run
+2022-03-31 16:49:29,889 [INFO] Saved a Run
+2022-03-31 16:49:29,890 [INFO] Saved a Run
+2022-03-31 16:49:29,891 [INFO] Saved a Run
+2022-03-31 16:49:29,892 [INFO] Saved a Run
+2022-03-31 16:49:29,893 [INFO] Saved a Run
+2022-03-31 16:49:29,895 [INFO] Saved a Run
+2022-03-31 16:49:44,039 [INFO] Saved a Run
+2022-03-31 16:49:44,041 [INFO] Saved a Run
+2022-03-31 16:49:44,042 [INFO] Saved a Run
+2022-03-31 16:49:44,043 [INFO] Saved a Run
+2022-03-31 16:49:44,044 [INFO] Saved a Run
+2022-03-31 16:49:44,045 [INFO] Saved a Run
+2022-03-31 16:49:44,046 [INFO] Saved a Run
+2022-03-31 16:49:44,047 [INFO] Saved a Run
+2022-03-31 16:49:44,048 [INFO] Saved a Run
+2022-03-31 16:49:44,049 [INFO] Saved a Run
+2022-03-31 16:51:31,612 [INFO] Saved a Run
+2022-03-31 16:51:31,614 [INFO] Saved a Run
+2022-03-31 16:51:31,615 [INFO] Saved a Run
+2022-03-31 16:51:31,616 [INFO] Saved a Run
+2022-03-31 16:51:31,618 [INFO] Saved a Run
+2022-03-31 16:51:31,619 [INFO] Saved a Run
+2022-03-31 16:51:31,620 [INFO] Saved a Run
+2022-03-31 16:51:31,621 [INFO] Saved a Run
+2022-03-31 16:51:31,622 [INFO] Saved a Run
+2022-03-31 16:51:31,623 [INFO] Saved a Run
+2022-03-31 16:53:25,364 [INFO] Saved a Run
+2022-03-31 16:53:25,366 [INFO] Saved a Run
+2022-03-31 16:53:25,368 [INFO] Saved a Run
+2022-03-31 16:53:25,368 [INFO] Saved a Run
+2022-03-31 16:53:25,369 [INFO] Saved a Run
+2022-03-31 16:53:25,370 [INFO] Saved a Run
+2022-03-31 16:53:25,371 [INFO] Saved a Run
+2022-03-31 16:53:25,372 [INFO] Saved a Run
+2022-03-31 16:53:25,373 [INFO] Saved a Run
+2022-03-31 16:53:25,374 [INFO] Saved a Run

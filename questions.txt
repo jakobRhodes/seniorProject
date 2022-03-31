@@ -1,0 +1,40 @@
+A impending earthquake is going to hit the village. You have 10 minutes to prepare the village for the coming disaster.
+Move everyone to the town hall, the largest and most stable building. #-5#0 
+Broadcast safety advice to stay in your homes and drop, cover, and hold on. #-2#0
+Prepare an emergency response team to help save survivors, clear rubble, and put out fires. #-3#-1
+A particularly bad harvest and hunting season have left the village food stores low. Something must be done or many in the village will starve. 
+Ration the remaining food. #-2#-5 
+Send out the hunters to find an animal. #-4#1
+Purchase food from a neighboring village. #-1#-2  
+A villager has been convicted of murder and must be dealt with.
+Imprison the convict. #0#-2 
+Execute the convict. #-1#2
+Exile the convict. #-1#-1 
+A bear has entered the village and is a danger to the villagers and the village. It must be stopped.
+Send the hunters to kill it. #-2#3 
+Lure it away from the village with food. #0#-2
+Attempt to scare it away. #-4#-2 
+The winter has been harsh and long. The villagers are unable to endure it much longer what should be done?
+Burn more fuel to keep the houses warm. #-3#2 
+Distribute warm clothes to the villagers. #-2#1
+Put them to work to keep them warm. #0#-4 
+A new watchtower has been proposed but requires taxes to be raised to fund the building and the guards.
+Increase the taxes. #0#-5 
+Divert funds from other projects. #0#-2
+Cancel the project. #0#-3 
+The villagers are unhappy due to a recent festival being cancelled.
+Plan a new one. #0#-2 
+Give out extra rations to make up for it. #0#-1
+Give a speech to console the villagers. #0#-3 
+Trade has been slowing down lately and the village has been suffering because of it.
+Send a representative to find new business connections. #-1#-1 
+Create a new product to boost trade. #-2#1
+Spend time figuring out the problem and then devise a solution. #0#-3 
+An enemy force is planning to invade the village.
+Attempt to catch them by surprise by attacking them in forest. #-5#1 
+Fight them in the village for a better defensive position. #-1#-7
+Send half of the army to wait for them to attack and then ambush them from behind. #-4#2 
+A new religion has made its way to the village and some people have been converted. There are complaints from the long-standing leaders of the current faith.
+Allow religious freedom. #-1#3
+Expel the converts. #-6#4
+Attempt to smooth relations between the two factions. #-1#-1 
