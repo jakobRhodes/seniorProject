@@ -67,10 +67,16 @@ for x in range(10):
 i = 0
 #Adds images to each question
 for x in questionPool:
-  questionPool[i].image = "earthquake.png"
-  i += 1
-#Reset Index Variable so we can use it in the main program
-i = 0
+  questionPool[0].image = "earthquake.png"
+  questionPool[1].image = "food.png"
+  questionPool[2].image = "criminal.png"
+  questionPool[3].image = "bear.png"
+  questionPool[4].image = "winter.png"
+  questionPool[5].image = "watchtower.png"
+  questionPool[6].image = "festival.png"
+  questionPool[7].image = "trade.png"
+  questionPool[8].image = "warrior.gif"
+  questionPool[9].image = "church.png"
 #Logging
 logging.basicConfig(
     level=logging.INFO,
