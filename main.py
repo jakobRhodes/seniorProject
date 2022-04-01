@@ -19,6 +19,7 @@ villagers = 100
 happiness = 100
 #Program Variables
 i = 0
+y = 0
 savedChoices = []
 savedUserInfo = ""
 numberOfDecisions = 10
@@ -37,6 +38,7 @@ class Question:
     self.choiceB = choiceB
     self.choiceC = choiceC
     self.used = False
+    self.image = ""
 
 #Class to attach points to each choice
 class Choice:
@@ -63,7 +65,12 @@ for x in range(10):
   i += 4
 #Reset Index Variable so we can use it in the main program
 i = 0
-
+#Adds images to each question
+for x in questionPool:
+  questionPool[i].image = "earthquake.png"
+  i += 1
+#Reset Index Variable so we can use it in the main program
+i = 0
 #Logging
 logging.basicConfig(
     level=logging.INFO,
@@ -127,13 +134,14 @@ def titlePrompt():
   window.close()
   return(event)  
 
-def threeChoicePrompt(prompt, buttonText1, buttonText2, buttonText3):
+def threeChoicePrompt(prompt, buttonText1, buttonText2, buttonText3, image):
   sg.theme(theme)  
   layout = [
     [sg.Text(prompt, justification="center", auto_size_text=True)], 
     [sg.Button(buttonText1, key=f'BTN{0}', auto_size_button=True, pad=(5,5))],
     [sg.Button(buttonText2, key=f'BTN{1}', auto_size_button=True, pad=(5,5))],
-    [sg.Button(buttonText3, key=f'BTN{2}', auto_size_button=True, pad=(5,5))]
+    [sg.Button(buttonText3, key=f'BTN{2}', auto_size_button=True, pad=(5,5))],
+    [sg.Image(size=(300, 300), filename=image, key="image")]
     ]
   window = sg.Window('Decision', layout, resizable=True, finalize=True, element_justification='center')
   window.TKroot.minsize(minWindowSize,minWindowSize)
@@ -155,16 +163,16 @@ def display():
   event, values = window.read()
   window.close()
 
-def applyChoice(choice, villagers, happiness):
+def applyChoice(choice, villagers, happiness, question):
   if choice == '1':
-    villagers += int(randomQuestion.choiceA.villagers)
-    happiness += int(randomQuestion.choiceA.happiness)
+    villagers += int(question.choiceA.villagers)
+    happiness += int(question.choiceA.happiness)
   elif choice == '2':
-    villagers += int(randomQuestion.choiceB.villagers)
-    happiness += int(randomQuestion.choiceB.happiness)
+    villagers += int(question.choiceB.villagers)
+    happiness += int(question.choiceB.happiness)
   elif choice == '3':
-    villagers += int(randomQuestion.choiceC.villagers)
-    happiness += int(randomQuestion.choiceC.happiness)
+    villagers += int(question.choiceC.villagers)
+    happiness += int(question.choiceC.happiness)
   return villagers, happiness
 
 def promptForMode():
@@ -181,7 +189,7 @@ def promptForInfo():
   return(values[0])  
 
 def decisionPrompt():
-    decision, buttonText = threeChoicePrompt(randomQuestion.question, randomQuestion.choiceA.text, randomQuestion.choiceB.text, randomQuestion.choiceC.text)
+    decision, buttonText = threeChoicePrompt(randomQuestion.question, randomQuestion.choiceA.text, randomQuestion.choiceB.text, randomQuestion.choiceC.text, randomQuestion.image)
     decision = decision.split("N")[1]
     decision = int(decision) + 1
     return str(decision), buttonText
@@ -212,7 +220,7 @@ if promptForMode() == '1':
     #Prompt for a choice and variable the results
     decision, buttonText = decisionPrompt()
     #Apply results of the choice made
-    villagers, happiness = applyChoice(decision, villagers, happiness)
+    villagers, happiness = applyChoice(decision, villagers, happiness, randomQuestion)
     #Save the text for future use
     choiceText += buttonText
     #Save the Choice Made
@@ -232,17 +240,18 @@ else:
   #logging.info(numberOfRuns)
   while i < numberOfRuns:
     #Get a random question fron the question pool
-    randomQuestion = getRandomUnusedQuestion()
+    question = questionPool[y]
     #Currently random choice
     decision = random.randint(1,3)
     #Apply results of the choice made
-    villagers, happiness = applyChoice(str(decision), villagers, happiness)
+    villagers, happiness = applyChoice(str(decision), villagers, happiness, question)
     #Save the text for future use
     choiceText += buttonText
     #Save the Choice Made
     savedChoices.append(str(decision))
     #Iterate
     i += 1
+    y += 1
     #If we've made 10 choices save that set to a file
     if i % 10 == False:
       #ResetQuestionPool
@@ -256,6 +265,7 @@ else:
       #Reset our Simulation Variables
       villagers = 100
       happiness = 100
+      y = 0
 
 
 
